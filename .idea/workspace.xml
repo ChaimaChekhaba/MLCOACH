@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd7bbb3-9701-405d-a76e-9664276f3c5f" name="Default Changelist" comment="" />
+    <list default="true" id="6bd7bbb3-9701-405d-a76e-9664276f3c5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/design_apps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ic_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ic_training.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ui_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ui_training.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/PCA_IC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/PCA_UI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_AdaBoostClassifierIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_AdaBoostClassifierUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_BaggingClassifierIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_BaggingClassifierUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_DecisionTreeClassifierIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_DecisionTreeClassifierUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_GaussianNBIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_GaussianNBUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_LogisticRegressionIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_LogisticRegressionUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_RandomForestClassifierIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_RandomForestClassifierUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_SVCIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_SVCUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/remarks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/apps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/data_set.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/data_set_not_ui.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/data_set_ui.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/intermediateClasses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/knn_ic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/knn_uic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/logistic_ic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/logistic_uic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/models.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/statistics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/svm_ic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/svm_uic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/test_data_not_ui.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/test_data_set_ui.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/tests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/tree_ic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/tree_uic.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +58,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VTvp3968GY9UdvGPJpmQvx9jB5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Utils">
     <configuration name="Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -137,6 +184,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -152,51 +200,5 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="278" y="61" width="800" height="684" key="#Inspections" timestamp="1585186688388">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="278" y="61" width="800" height="684" key="#Inspections/0.32.1366.736@0.32.1366.736" timestamp="1585186688388" />
-    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585018340843">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1366.736@0.32.1366.736" timestamp="1585018340843" />
-    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582750737681">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl/0.32.1366.736@0.32.1366.736" timestamp="1582750737681" />
-    <state width="1345" height="416" key="GridCell.Tab.0.bottom" timestamp="1585479174748">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state width="1345" height="416" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1585479174748" />
-    <state width="1345" height="416" key="GridCell.Tab.0.center" timestamp="1585479174747">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state width="1345" height="416" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1585479174747" />
-    <state width="1345" height="416" key="GridCell.Tab.0.left" timestamp="1585479174747">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state width="1345" height="416" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1585479174747" />
-    <state width="1345" height="416" key="GridCell.Tab.0.right" timestamp="1585479174748">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state width="1345" height="416" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1585479174748" />
-    <state x="187" y="32" width="992" height="736" key="SettingsEditor" timestamp="1585764739045">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="187" y="32" width="992" height="736" key="SettingsEditor/0.32.1366.736@0.32.1366.736" timestamp="1585764739045" />
-    <state x="362" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1585764291164">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="362" y="227" key="com.intellij.ide.util.TipDialog/0.32.1366.736@0.32.1366.736" timestamp="1585764291164" />
-    <state x="347" y="92" width="662" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584728864957">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="347" y="92" width="662" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1366.736@0.32.1366.736" timestamp="1584728864957" />
-    <state x="0" y="32" width="634" height="736" key="find.popup" timestamp="1579875530415">
-      <screen x="0" y="32" width="1366" height="736" />
-    </state>
-    <state x="0" y="32" width="634" height="736" key="find.popup/0.32.1366.736@0.32.1366.736" timestamp="1579875530415" />
   </component>
 </project>

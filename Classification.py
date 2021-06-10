@@ -13,7 +13,6 @@ from sklearn.naive_bayes import GaussianNB, MultinomialNB
 from sklearn.model_selection import cross_val_score, KFold, cross_validate
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 import numpy
-from scipy import interp
 import json
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
