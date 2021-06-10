@@ -2,49 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd7bbb3-9701-405d-a76e-9664276f3c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/apps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/design_apps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ic_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ic_training.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ui_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ui_training.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/PCA_IC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/PCA_UI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_AdaBoostClassifierIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_AdaBoostClassifierUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_BaggingClassifierIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_BaggingClassifierUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_DecisionTreeClassifierIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_DecisionTreeClassifierUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_GaussianNBIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_GaussianNBUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_LogisticRegressionIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_LogisticRegressionUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_RandomForestClassifierIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_RandomForestClassifierUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_SVCIC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/confusion_matrix_SVCUI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/remarks.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/apps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/data_set.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/data_set_not_ui.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/data_set_ui.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/intermediateClasses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/knn_ic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/knn_uic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/logistic_ic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/logistic_uic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/models.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/statistics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/svm_ic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/svm_uic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/test_data_not_ui.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/test_data_set_ui.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/tests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/tree_ic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/tree_uic.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neo4jManager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classDataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/annotatedClasses.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/oo_metrics_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/patterns.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternDataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neo4JDatabase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +31,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VTvp3968GY9UdvGPJpmQvx9jB5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Utils">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MVC-based-classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,14 +130,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MVC-based-classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Classification" />
       <item itemvalue="Python.Metrics" />
       <item itemvalue="Python.Neo4JDatabase" />
       <item itemvalue="Python.Utils" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.Utils" />
         <item itemvalue="Python.Classification" />
         <item itemvalue="Python.Neo4JDatabase" />
@@ -196,9 +192,22 @@
       <option name="presentableId" value="Default" />
       <updated>1577290078027</updated>
     </task>
+    <task id="LOCAL-00001" summary="no changes just merge the origin with the local">
+      <created>1623344106839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623344106839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="no changes just merge the origin with the local" />
+    <option name="LAST_COMMIT_MESSAGE" value="no changes just merge the origin with the local" />
   </component>
 </project>
