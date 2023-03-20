@@ -1,2 +1,2 @@
 # MLCOACH
-Detection of MVC, MVP and MVVM architectural patterns in Android apps from the source code using machine learning techniques (multi-label classification).
+A tool for detecting MVC, MVP and MVVM architectural patterns in Android apps from the source code using the multi-label classification.
