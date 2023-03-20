@@ -1,6 +1,0 @@
-,number_of_model_classes,number_of_view_classes,number_of_controller_classes,number_of_presenter_classes,number_of_view_model_classes,model_class_complexity,model_coupling_between_object_classes,model_lack_of_cohesion_in_methods,model_npath_complexity,view_class_complexity,view_coupling_between_object_classes,view_lack_of_cohesion_in_methods,view_npath_complexity,controller_class_complexity,controller_coupling_between_object_classes,controller_lack_of_cohesion_in_methods,controller_npath_complexity,presenter_class_complexity,presenter_coupling_between_object_classes,presenter_lack_of_cohesion_in_methods,presenter_npath_complexity,view_model_class_complexity,view_model_coupling_between_object_classes,view_model_lack_of_cohesion_in_methods,view_model_npath_complexity,pattern
-0,1,3,3,0,0,-1,-1,-1,-1,-1,-1,-1,-1,[['MVC']],,,,,,,,,,,,
-1,0,3,3,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,[['MVC']],,,,,,,,
-2,0,15,8,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,[['MVC']],,,,,,,,
-3,0,5,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,[['MVP']],,,,
-4,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,[['MVC']]
